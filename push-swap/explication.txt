@@ -1,0 +1,39 @@
+
+
+// Compréhention de l'énnoncé
+
+// on a 2 pile d'int (A et B)
+// ___________________
+// | Pile A | Pile B |
+// |-----------------|
+// | int 1  | int 1  |
+// | int 2  | int 2  |
+// | int 3  | int 3  |
+// | int 4  | int 4  |
+// etc...
+
+// 2 programme a écrire
+// Programme 1 "Push-swap" = calcul est affiche les etape de trie
+// Programme 2 "Checker" = calcul est affiche si le trie est possible ou non
+
+// opération qui sont autorisé :
+// Name : PA		opération : pousse B1 en haut de la pile A
+// Name : PB		opération : pousse A1 en haut de la pile B
+
+// Name : SA		opération : A2, A1 = A1, A2
+// Name : SB		opération : B2, B1 = B1, B2
+// Name : SS		opération : SA + SB
+
+// Name : RA		opération : met A1 en bas de la pile A
+// Name : RB		opération : met B1 en bas de la pile B
+// Name : RR		opération : RA + RB
+ 
+// Name : RRA		opération : met Ax (dernier élément de la pile A) en haut de la pile A
+// Name : RRB		opération : met Bx (dernier élément de la pile B) en haut de la pile B1
+// Name : RRR		opération : RRA + RRB
+
+// Etape pour faire l'exercice
+// Etape 0 : Gérer mon entrée (gestion de valeur n'étant pas un int)
+// Etape 1 : Ecrire les 4 fonctions qui correspondent aux opérations possible
+// Etape 2 : Assemblé les opérations pour testé lesquel doivent être utilisé
+// Etape 3 : savoir quel programme est demandé pour afficher le résultats demandé
