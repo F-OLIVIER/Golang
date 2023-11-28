@@ -36,6 +36,6 @@ go run . "Hello" "-s"
 
 ### Authors
 _______
-+ Agustin GUILLEN [Gitea](https://zone01normandie.org/git/aguillen)
-+ Williams BELLO [Gitea](https://zone01normandie.org/git/wbello)
-+ Fabien Olivier [Gitea](https://zone01normandie.org/git/folivier)
++ Agustin GUILLEN
++ Williams BELLO
++ Fabien OLIVIER

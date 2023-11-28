@@ -41,7 +41,7 @@ go run . --color=red t toto --output=sample.txt shadow
 Our program can also take the color as an option
 
 ##  Authors
-- Fabien olivier
-- Fabien Fanise
-- Valerian Bohers
+- Fabien OLIVIER
+- Fabien FANISE
+- Valerian BOHERS
         

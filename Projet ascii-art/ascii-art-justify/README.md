@@ -35,6 +35,6 @@ go run .
 
 ### Authors
 _______
-+ DAMANDE R [Gitea](https://zone01normandie.org/git/drodolph)
-+ DUVAL N   [Gitea](https://zone01normandie.org/git/nduval)
-+ OLIVIER F [Gitea](https://zone01normandie.org/git/folivier)
++ Rodolph DAMANDE
++ Nicolas DUVAL
++ Fabien OLIVIER

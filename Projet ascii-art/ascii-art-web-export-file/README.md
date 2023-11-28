@@ -88,5 +88,5 @@ Le programme prend en compte la commande de retour à la ligne :
 `\n`
 
 ## Authors
-+ Fabien OLIVIER [Gitea](https://zone01normandie.org/git/folivier)
-+ Mickael MARCHAIS [Gitea](https://zone01normandie.org/git/mmarchai)
++ Fabien OLIVIER
++ Mickael MARCHAIS

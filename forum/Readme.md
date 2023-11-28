@@ -2,10 +2,10 @@
 
 ### Descriptif
 _______
-Le projet consiste a crée un forum ou les utilisateurs peuvent s'enregistrer. 
-Les utilisateurs connecté peuvent crée des posts et mettre des commentaire sur les posts et peuvent `liker` ou `disliker` les posts ou commentaires. 
-Les utilisateur non connecté peuvent simplement lire les commentaires et les posts. 
-Un systéme de filtre est également présent (par catégorie de posts, par post crée et par post `liker`).
+Le projet consiste à créer un forum ou les utilisateurs peuvent s'enregistrer. 
+Les utilisateurs connectés peuvent créer des posts et mettre des commentaires sur les posts et peuvent `liker` ou `disliker` les posts ou commentaires. 
+Les utilisateurs non connectés peuvent simplement lire les commentaires et les posts. 
+Un système de filtre est également présent (par catégorie de posts, par post créé et par post `liker`).
 
 <img src="./forum.png" alt="Screen de la page principale du forum" width="70%"/>
 

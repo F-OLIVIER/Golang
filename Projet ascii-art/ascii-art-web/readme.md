@@ -50,6 +50,6 @@ Entrez le texte à transformer en Ascii-Art, selectionner l'option désirée, pu
 
 ## Authors
 _______
-+ Ludovic UNTEREINER [Gitea](https://zone01normandie.org/git/lunterei) 
-+ Chloé MASSE [Gitea](https://zone01normandie.org/git/cmasse) 
-+ Fabien OLIVIER [Gitea](https://zone01normandie.org/git/folivier)
++ Ludovic UNTEREINER
++ Chloé MASSE
++ Fabien OLIVIER
