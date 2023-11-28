@@ -2,7 +2,7 @@
 
 ### Descriptif
 _______
-Programme qui calcul retourne une plage pour prédire le prochain numéro
+Programme qui retourne une plage pour prédire le prochain numéro
 
 ### Usage
 _______
